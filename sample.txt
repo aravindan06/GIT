@@ -1,8 +1,8 @@
 iiiii
 
-<<<<<<< HEAD
+
 //added by aravind
-=======
+
 
 //edited by Naveen
->>>>>>> 4dcdfcc4302a8003463532d8541707dd2a064884
+
